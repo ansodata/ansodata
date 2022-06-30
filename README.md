@@ -1,0 +1,5 @@
+- 👋 Hello friends, I’m Anso
+- 👀 I’m a data scientist
+- 🌱 I’m currently pursuing a Master of Science in Data Science
+- 💞️ I’m looking to collaborate on data science projects
+- 📫 I can be reached via email at am.cleandata@gmail.com
