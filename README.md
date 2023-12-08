@@ -8,5 +8,5 @@
 
 💞️ I’m looking to collaborate on data science and cybersecurity projects
 
-- 📫 I can be reached via email at am.cleandata@gmail.com
+📫 I can be reached via email at am.cleandata@gmail.com
 
